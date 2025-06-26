@@ -8,20 +8,19 @@ do Curso de Analise e Desenvolvimento de Sistemas pela Estácio cursando o segun
 
 ### Linguagens e Tecnologias:
 
- <img 
+<img 
    aling="left"
    alt="C"
    title="C"
    width="30px"
    style="padding-right: 10px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
-   />
-
- <img 
+/>
+<img 
    aling="left"
    alt="Ubuntu"
    title="Ubuntu"
    width="30px"
    style="padding-right: 10px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" 
-  />
+/>
