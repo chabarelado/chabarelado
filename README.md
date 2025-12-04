@@ -16,7 +16,6 @@ do Curso de Analise e Desenvolvimento de Sistemas pela Estácio cursando o segun
    style="padding-right: 10px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" 
 />
-
 <img 
    aling="left"
    alt="Python"
