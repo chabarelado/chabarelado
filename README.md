@@ -15,7 +15,7 @@ do Curso de Analise e Desenvolvimento de Sistemas pela Estácio cursando o segun
    width="30px"
    style="padding-right: 10px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
-/>
+/> 
 <img 
    aling="left"
    alt="Windows 11"
