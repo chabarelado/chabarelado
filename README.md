@@ -50,14 +50,6 @@ do Curso de Analise e Desenvolvimento de Sistemas pela Estácio cursando o segun
 />
 <img 
    aling="left"
-   alt="JavaScript"
-   title="JavaScritp"
-   width="30px"
-   style="padding-right: 15px;"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/> 
-<img 
-   aling="left"
    alt="VsCode"
    title="VsCode"
    width="30px"
