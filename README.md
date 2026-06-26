@@ -26,6 +26,14 @@ do Curso de Analise e Desenvolvimento de Sistemas pela Estácio.
 />
 <img 
    aling="left"
+   alt="Linux Mint"
+   title="Mint"
+   width="30px"
+   style="padding-right: 15px;"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linuxmint/linuxmint-plain.svg" 
+/> 
+<img 
+   aling="left"
    alt="Python"
    title="Python"
    width="30px"
